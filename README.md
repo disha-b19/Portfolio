@@ -15,10 +15,5 @@ CSS3: For styling, layout, and responsive design.
 JavaScript: For interactivity and functionality (such as form validation, smooth scrolling, etc.).
 Font Awesome: For icons used in the skills section and social media links.
 
-Installation
-Clone the repository:
- git clone https://github.com/yourusername/portfolio-website.git
 
-Navigate to the project directory:
-cd portfolio-website
 
