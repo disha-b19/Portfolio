@@ -17,9 +17,8 @@ Font Awesome: For icons used in the skills section and social media links.
 
 Installation
 Clone the repository:
-
-git clone https://github.com/yourusername/portfolio-website.git
+ git clone https://github.com/yourusername/portfolio-website.git
 
 Navigate to the project directory:
-
 cd portfolio-website
+
